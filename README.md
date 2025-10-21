@@ -1,8 +1,10 @@
-# ChatGPT Apps Documentation
+# ChatGPT Apps SDK Markdown Documentation
 
-This repository contains comprehensive documentation for building ChatGPT Apps, retrieved on **October 20, 2025**.
+Feed your AI agents with the markdown version of the official ChatGPT Apps documentation to help them create ChatGPT Apps.
 
-> **Note**: This documentation is a markdown carbon copy of the official documentation available at [https://developers.openai.com/apps-sdk](https://developers.openai.com/apps-sdk)
+> ℹ️ This is a markdown carbon copy of the official documentation available at [https://developers.openai.com/apps-sdk](https://developers.openai.com/apps-sdk).
+
+> 📅 Last retrieved on **October 20, 2025**.
 
 ## Overview
 
