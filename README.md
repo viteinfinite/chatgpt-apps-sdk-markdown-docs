@@ -2,6 +2,8 @@
 
 This repository contains comprehensive documentation for building ChatGPT Apps, retrieved on **October 20, 2025**.
 
+> **Note**: This documentation is a markdown carbon copy of the official documentation available at [https://developers.openai.com/apps-sdk](https://developers.openai.com/apps-sdk)
+
 ## Overview
 
 This documentation provides everything you need to know about creating custom ChatGPT Apps, including setup, development, deployment, and best practices.
